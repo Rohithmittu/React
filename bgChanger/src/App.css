@@ -1,0 +1,32 @@
+*{
+  padding: none;
+}
+
+.button1{
+  outline: none;
+  border-radius: 25px;
+  background-color: red;
+  border-color: white;
+  height: 20px;
+  width: 10px;
+}
+.button2{
+  outline: none;
+  border-radius: 25px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  background-color: blue;
+  border-color: white;
+
+}
+
+.div1{
+  /* w-full h-screen duration-200 bg-black' */
+  /* background-color: black; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 1000px;
+  width: 1000px;
+}
